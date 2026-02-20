@@ -16,9 +16,7 @@ A beautiful Django web application for managing cakes and baker profiles with a 
 
 ### Homepage
 ![Homepage](Screenshot%202026-02-20%20123204.png)
-
-### Add New Cake
-![Add Cake](Screenshot%202026-02-20%20123223.png)
+![Homepage](Screenshot%202026-02-20%20123223.png)
 
 ### Edit Cake
 ![Edit Cake](Screenshot%202026-02-20%20123308.png)
